@@ -71,6 +71,17 @@ h2,
   line-height: 1.95rem;
 }
 
+h3,
+.tera {
+  font-size: 1.2148rem;
+  line-height: 1.625rem;
+}
+
+h4,
+.giga {
+  font-size: 1.1385rem;
+  line-height: 1.625rem;
+}
 
 h5,
 .mega {
@@ -78,9 +89,22 @@ h5,
   line-height: 1.625rem;
 }
 
+h6,
+.kilo,
+input,
+textarea {
+  font-size: 1rem;
+  line-height: 1.3rem;
+}
+
 small,
 .milli {
   font-size: .9372rem;
+  line-height: 1.3rem;
+}
+
+.micro {
+  font-size: .8784rem;
   line-height: 1.3rem;
 }
 
@@ -160,6 +184,16 @@ ol {
     margin: 0 0 1.4rem;
   }
 
+  .yotta {
+    font-size: 2.2807rem;
+    line-height: 3.15rem;
+  }
+
+  .zetta {
+    font-size: 2.0273rem;
+    line-height: 2.8rem;
+  }
+
   h1,
   .exa {
     font-size: 1.802rem;
@@ -172,15 +206,40 @@ ol {
     line-height: 2.1rem;
   }
 
+  h3,
+  .tera {
+    font-size: 1.4238rem;
+    line-height: 2.1rem;
+  }
+
+  h4,
+  .giga {
+    font-size: 1.2656rem;
+    line-height: 1.75rem;
+  }
+
   h5,
   .mega {
     font-size: 1.125rem;
     line-height: 1.75rem;
   }
 
+  h6,
+  .kilo,
+  input,
+  textarea {
+    font-size: 1rem;
+    line-height: 1.4rem;
+  }
+
   small,
   .milli {
     font-size: .8889rem;
+    line-height: 1.4rem;
+  }
+
+  .micro {
+    font-size: .7901rem;
     line-height: 1.4rem;
   }
 
